@@ -1,0 +1,1 @@
+alert('LGEBD-XSS-OP-REPLICA')
