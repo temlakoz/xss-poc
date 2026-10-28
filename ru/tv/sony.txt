@@ -1,0 +1,1 @@
+({cfg:alert('OP3-CFG-EVAL-OK')})
